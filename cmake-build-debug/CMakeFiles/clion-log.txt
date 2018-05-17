@@ -1,0 +1,4 @@
+"C:\Program Files (x86)\JetBrains\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\u211-14\Desktop\kawenko
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/u211-14/Desktop/kawenko/cmake-build-debug

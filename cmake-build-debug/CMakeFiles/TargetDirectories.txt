@@ -1,0 +1,3 @@
+C:/Users/u211-14/Desktop/kawenko/cmake-build-debug/CMakeFiles/kawenko.dir
+C:/Users/u211-14/Desktop/kawenko/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/u211-14/Desktop/kawenko/cmake-build-debug/CMakeFiles/rebuild_cache.dir
